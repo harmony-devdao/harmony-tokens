@@ -1,0 +1,12 @@
+{
+  "name": "harmony-tokens",
+  "version": "1.0.0",
+  "main": "-",
+  "repository": "git@github.com:harmony-devdao/harmony-tokens.git",
+  "author": "Harmony Developer DAO",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ethers": "^5.6.7"
+  }
+}

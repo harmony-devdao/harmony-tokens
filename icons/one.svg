@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 220 220.00001"
+   version="1.1"
+   sodipodi:docname="harmony-one.svg"
+   width="220"
+   height="220"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview880"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.89189163"
+     inkscape:cx="90.257602"
+     inkscape:cy="121.65155"
+     inkscape:window-width="1312"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs874">
+    <linearGradient
+       id="linear-gradient"
+       x1="202.92999"
+       y1="544.70001"
+       x2="203.8"
+       y2="545.57001"
+       gradientTransform="matrix(180,0,0,-179.50999,-36494.698,97966.287)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00aee9"
+         id="stop869" />
+      <stop
+         offset="1"
+         stop-color="#69fabd"
+         id="stop871" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title876">harmony-one-logo</title>
+  <path
+     id="Shape"
+     d="m 162.47302,21.060612 a 38.810001,38.809999 0 0 0 -38.84,38.709999 v 42.919999 c -3.99998,0.27 -8.08998,0.44 -12.32998,0.44 -4.24,0 -8.31,0.17 -12.33,0.41 V 59.770611 a 38.840001,38.839999 0 0 0 -77.670003,0 V 162.3506 a 38.840001,38.839999 0 0 0 77.670003,0 v -42.91999 c 4,-0.27 8.09,-0.44 12.33,-0.44 4.24,0 8.31,-0.17 12.32998,-0.41 v 43.76999 a 38.840001,38.839999 0 0 0 77.67001,0 V 59.770611 A 38.810001,38.809999 0 0 0 162.47302,21.060612 Z M 60.133039,36.920611 a 22.91,22.909999 0 0 1 22.920001,22.85 v 45.449999 a 130.64,130.64 0 0 0 -33.000001,9.33 60.000001,59.999998 0 0 0 -12.8,7.64 V 59.770611 a 22.91,22.909999 0 0 1 22.88,-22.85 z M 83.05304,162.3506 a 22.92,22.919999 0 1 1 -45.840001,0 v -10.28999 c 0,-9.09 7.2,-17.7 19.27,-23.06 a 113,113 0 0 1 26.570001,-7.77 z m 79.41998,22.85 a 22.91,22.909999 0 0 1 -22.92,-22.85 v -45.44999 a 130.64,130.64 0 0 0 33.00001,-9.33 60.000001,59.999998 0 0 0 12.8,-7.640001 V 162.3506 a 22.91,22.909999 0 0 1 -22.88001,22.85 z m 3.65,-92.139991 a 113,113 0 0 1 -26.57,7.770001 V 59.770611 a 22.920005,22.920004 0 1 1 45.84001,0 V 70.06061 c 0,9.05 -7.2,17.66 -19.27001,22.999999 z"
+     style="fill:url(#linear-gradient)" />
+  <metadata
+     id="metadata962">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>harmony-one-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
